@@ -21,5 +21,8 @@
     <ClCompile Include="UVa1586_分子量.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UVa1223_数数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
